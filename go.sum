@@ -3,7 +3,9 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/satori/go.uuid v1.2.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
 github.com/steve-care-software/cryptography v0.0.0-20220620141928-5bb0db210568 h1:lUG9+hlRJDdMwPo/S478Tm/Bq+P4E7qF5P1kUFS3EIo=
 github.com/steve-care-software/cryptography v0.0.0-20220620141928-5bb0db210568/go.mod h1:G0YTwSTRgGRFHi0n0CcY5LYwoCTkvEqLKSIfCfAa54w=
+github.com/steve-care-software/selector v0.0.0-20220621004418-08ef440f34fe/go.mod h1:UNCcr33j76a4TJxzaVSjwnYCddhLJ+pgGt3qBmEkHP8=
 github.com/steve-care-software/stevecare v0.0.0-20220610184533-4d5ad5607734/go.mod h1:LRT+/kpqZzmXTSpZ8DFjq83uS80zFPiniQVJosG81Hc=
+github.com/steve-care-software/validator v0.0.0-20220619215535-5fc60dc23003/go.mod h1:WrFRdwZ4hNStJAMzEYlINlZ4NuMr2dbYcyk9RrMfvyo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 go.dedis.ch/fixbuf v1.0.3/go.mod h1:yzJMt34Wa5xD37V5RTdmp38cz3QhMagdGoem9anUalw=
